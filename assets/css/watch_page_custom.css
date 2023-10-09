@@ -1,0 +1,14 @@
+@media screen and (min-width: 1720px) and (min-height: 980px) {
+    .watch-non-stage-mode #watch7-sidebar-contents {
+      min-height: 438px;
+      bottom: 468px;
+      position: relative;
+      }
+    }
+    @media screen and (min-width: 1294px) and (min-height: 630px) {
+    .watch-non-stage-mode #watch7-sidebar-contents {
+      min-height: 510px;
+      bottom: 468px;
+      position: relative; 
+     }
+    }

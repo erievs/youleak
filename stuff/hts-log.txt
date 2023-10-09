@@ -1,0 +1,25 @@
+HTTrack3.49-2 launched on Sun, 01 Oct 2023 21:23:56 at https://web.archive.org/web/20150331235833/https://www.youtube.com/
+(httrack https://web.archive.org/web/20150331235833/https://www.youtube.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:27:30	Warning: 	FOUND for web.archive.org/web/20150331235833/https://www.youtube.com/yt/about/
+21:27:30	Warning: 	File has moved from web.archive.org/web/20150331235833/https://www.youtube.com/yt/about/ to http://web.archive.org/web/20150401004047/https://www.youtube.com/yt/about/
+21:27:30	Warning: 	FOUND for web.archive.org/web/20150331235833/https://www.youtube.com/yt/press/
+21:27:30	Warning: 	File has moved from web.archive.org/web/20150331235833/https://www.youtube.com/yt/press/ to http://web.archive.org/web/20150401004155/https://www.youtube.com/yt/press/
+21:27:30	Warning: 	FOUND for web.archive.org/web/20150331235833/https://www.youtube.com/yt/copyright/
+21:27:30	Warning: 	File has moved from web.archive.org/web/20150331235833/https://www.youtube.com/yt/copyright/ to http://web.archive.org/web/20150401004158/https://www.youtube.com/yt/copyright/
+21:27:30	Warning: 	FOUND for web.archive.org/web/20150331235833/https://www.youtube.com/yt/creators/
+21:27:30	Warning: 	File has moved from web.archive.org/web/20150331235833/https://www.youtube.com/yt/creators/ to http://web.archive.org/web/20150401004256/https://www.youtube.com/yt/creators/
+21:27:30	Warning: 	FOUND for web.archive.org/web/20150331235833/https://www.youtube.com/yt/advertise/
+21:27:30	Warning: 	File has moved from web.archive.org/web/20150331235833/https://www.youtube.com/yt/advertise/ to http://web.archive.org/web/20150401004301/https://www.youtube.com/yt/advertise/
+21:27:30	Warning: 	FOUND for web.archive.org/web/20150331235833/https://www.youtube.com/yt/dev/
+21:27:30	Warning: 	File has moved from web.archive.org/web/20150331235833/https://www.youtube.com/yt/dev/ to http://web.archive.org/web/20150401004305/https://www.youtube.com/yt/dev/
+21:27:30	Warning: 	FOUND for web.archive.org/web/20150331235833/https://www.youtube.com/yt/policyandsafety/
+21:27:30	Warning: 	File has moved from web.archive.org/web/20150331235833/https://www.youtube.com/yt/policyandsafety/ to http://web.archive.org/web/20150401004313/https://www.youtube.com/yt/policyandsafety/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 34 seconds : 10 links scanned, 1 files written (317632 bytes overall) [198319 bytes received at 926 bytes/sec], 317632 bytes transferred using HTTP compression in 1 files, ratio 13%, 33.6 requests per connection
+(No errors, 14 warnings, 0 messages)
